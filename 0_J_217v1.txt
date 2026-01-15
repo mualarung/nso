@@ -9,7 +9,7 @@ NSO BLU:nsoblu.pro:14444:0:0
 # Linh | HSD: 2099-08-27 20:00
 Ninja Z:ninjaschoolz.online:14444:0:0
 # Linh | HSD: 2099-08-27 20:00
-,NSO Shin:shinvnso.click:14444:0:0
+NSO Shin:shinvnso.click:14444:0:0
 # Linh | HSD: 2099-08-27 20:00
 Thời Đại NSO:thoidainso.com:14444:0:0
 # Linh | HSD: 2099-08-27 20:00
