@@ -17,7 +17,7 @@ NSO TVT:nsotvt.com:14444:0:0
 # Linh | HSD: 2099-08-27 20:00
 NSO TOKYO:nsotokyo.com:14444:0:0
 # Linh | HSD: 2099-08-27 20:00
-NSO City:nsocity.online:14444:0:0
+NSO City:103.139.155.120:14444:0:0
 # Linh | HSD: 2099-08-27 20:00
 Bí Thuật Ninja:bithuatninja.com:14444:0:0
 # Linh | HSD: 2099-08-27 20:00
