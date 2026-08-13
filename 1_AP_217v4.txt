@@ -1,1 +1,1 @@
-NinjaDragon:sv.ninjadragon.fun:14444:0:0,NSO ICE:meme.kyniem.fun:14444:0:0,Local:127.0.0.1:144444:0:0
+Ninja Dragon:sv.ninjadragon.fun:14444:0:0,NSO ICE:meme.kyniem.fun:14444:0:0,Local:127.0.0.1:144444:0:0
